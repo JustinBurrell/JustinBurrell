@@ -48,4 +48,4 @@ I'm a Computer Science professional from Lehigh University, currently on the Tec
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/thejustinburrell) • [Website](https://thejustinburrell.com) • [Resume](https://prlxghfadjdnxqoqwlla.supabase.co/storage/v1/object/public/assets/assets/documents/Justin%20Burrell%20Resume.pdf) • [Email](mailto:justinburrell715@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/thejustinburrell) • [Website](https://thejustinburrell.com) • [Blog](https://www.thejustinburrell.com/blog) • [Resume](https://prlxghfadjdnxqoqwlla.supabase.co/storage/v1/object/public/assets/assets/documents/Justin%20Burrell%20Resume.pdf) • [Email](mailto:justinburrell715@gmail.com)
